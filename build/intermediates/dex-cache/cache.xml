@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_3eac86ef6468ac53d8ff71ea68ac8c4e85ea095f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-2.3.0_3f2cbd35e4f32d5ac23c790cd434ac430b99813b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_920c4bde23dd92d498c52c57beab4f030a5d07e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.3.0_b6457bbbca4bcf6d0983292e94c0ff9ec57afad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cc399b45b540bd8b1762a705b1dcf01ccfc55d23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_8a1625f8a38a1973132e5e54be1993339bc07902/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0dd0f0ef997c7b284e0ff70f83aa07955c55a9a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_23b04928b7a82c5081dc24736c6cff741d802775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_b626bcd3802f1945a9ccf09010226f2705e267d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.octoblu/sanejsonobject/4.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da06f535da186eaf336cd1925ee0e4f639ea9eff">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.octoblu-sanejsonobject-4.0.1_c31359ecf9d38a98d3912ab8121fde68f08b98f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9b23176e1cf180a8863e2d9bc1bcd83df765f76">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aa28c675767ada2fe537f91846f111701272f80a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6635ec84049de76becf6955ebf5289d6fda4006c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_cdd29e5903041562b4345f995324364935f981e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_9ab010cfb9846ee435e08c4adb3920c6f0ac19e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_453aed182239e04debfd33d9c633c7e90873aedd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.5.0/72f54ba32a0d735630ebc33a5c39e14a5dd45492/engine.io-client-0.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="72f54ba32a0d735630ebc33a5c39e14a5dd45492">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.5.0_54ea190187dc52ee11315784e007b92f7412267d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ce11d095cecf6f21f8ad941c97188fa8eb50a31">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8ca98697161901966b9caafaa20d388f85506240/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f7dfb3dc380e162c439fb701bc7768b4229b2438/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_88338e193fe1f595752769a3503e21aa83095d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.3.0_6470b953d9f4975547f6d758cb011502a60266ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_02cf6fb0f5def81c559fbd99ee09fb7609404693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_c5556272343a09d77021a496a1123a55ad4e7968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wallacethierre/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="/home/wallacethierre/Documents/Meshblu/MeshbluAndroidSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.18_a64b8ab00dc0d619c1c0d30c24ce3e14c710c15a/classes.dex" />
+    </item>
+
+</items>
